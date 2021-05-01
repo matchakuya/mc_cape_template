@@ -9,6 +9,12 @@ This table right here indicates the meaning of the colors:
 ![LEFT](https://img.shields.io/badge/%E2%97%BC-LEFT-%2388001B?style=for-the-badge) |![RIGHT](https://img.shields.io/badge/%E2%97%BC-RIGHT-%233F48CC?style=for-the-badge)
 ![FRONT](https://img.shields.io/badge/%E2%97%BC-FRONT-%2300A8F3?style=for-the-badge) | ![BACK](https://img.shields.io/badge/%E2%97%BC-BACK-%23FFCA18?style=for-the-badge)
 
+Specification of the parts
+
+the right wing is mirrored from the left wing　／ 右翼わ左翼の鏡像
+
+![PART_SPECIFICATION.PNG](PART_SPECIFICATION.PNG)
+
 How it would look as is ingame:
 
 ![INGAME_PREVIEW.PNG](INGAME_PREVIEW.PNG)
