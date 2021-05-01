@@ -3,6 +3,8 @@ Full template for Minecraft capes
 
 I have tested this template in the versions `1.7.10`, `1.8.9`, `1.12.2` and it worked without issues
 
+　
+
 This table right here indicates the meaning of the colors:
 
 　|　
