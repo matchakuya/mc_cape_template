@@ -3,11 +3,11 @@ Full template for Minecraft capes (tested `1.7.10`, `1.8.9`, `1.12.2`)
 
 This table right here indicates the meaning of the colors:
 
- 
+　
  
 　　[![DOWNLOAD](https://img.shields.io/badge/PACKED-DOWNLOAD-%23228B22?style=for-the-badge)](https://github.com/matcha98qx/mc_cape_template/releases/)
 
-
+　
 
 　|　
 -|-
