@@ -18,7 +18,7 @@ This table right here indicates the meaning of the colors:
 
 Specification of the parts
 
-the right wing is mirrored from the left wing　／ 右翼わ左翼の鏡像
+the right wing is mirrored from the left wing　／ 右の翼わ左の翼の鏡像
 
 ![PART_SPECIFICATION.PNG](PART_SPECIFICATION.PNG)
 
